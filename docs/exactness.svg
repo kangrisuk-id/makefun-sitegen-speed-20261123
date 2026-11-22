@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+  <rect width="1200" height="520" fill="#0c1a12"/>
+  <text x="56" y="64" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#f0fdf4">Exactness evidence — every output compared byte for byte</text>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#dcfce7">
+    <text x="56" y="136">✓  Practice set: 3 / 3 cases identical to the kit reference</text>
+    <text x="56" y="188">✓  Fresh sets from the contest's own generator, 4 unseen seeds:</text>
+    <text x="92" y="228">12 / 12 cases identical to the oracle (5,031 source files)</text>
+    <text x="56" y="280">✓  Hand-built edge sites: unicode slugs, 64-char slug cut, every</text>
+    <text x="92" y="320">front-matter refusal, Markdown torture, template parse errors,</text>
+    <text x="92" y="360">include cycles, shadowed statics, broken links — all identical</text>
+    <text x="56" y="412">✓  Deterministic: repeated runs produce identical answers;</text>
+    <text x="92" y="452">nothing is cached from one case to the next</text>
+  </g>
+</svg>
