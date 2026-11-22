@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+  <rect width="1200" height="520" fill="#111827"/>
+  <text x="56" y="64" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#f8fafc">Where the time goes — and what changed</text>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21">
+    <rect x="56" y="104" width="1088" height="82" rx="10" fill="#1f2937"/>
+    <text x="80" y="140" fill="#7dd3fc" font-weight="700">Front matter</text>
+    <text x="80" y="170" fill="#d1d5db">Line scanner over the header only — the body is never split just to find the closing ---.</text>
+    <rect x="56" y="202" width="1088" height="82" rx="10" fill="#1f2937"/>
+    <text x="80" y="238" fill="#7dd3fc" font-weight="700">Markdown</text>
+    <text x="80" y="268" fill="#d1d5db">Lexing and rendering fused in one pass; lines classified by hand, inline runs copied in slices,</text>
+    <text x="80" y="294" fill="#d1d5db"></text>
+    <rect x="56" y="300" width="1088" height="82" rx="10" fill="#1f2937"/>
+    <text x="80" y="336" fill="#7dd3fc" font-weight="700">Text rules</text>
+    <text x="80" y="366" fill="#d1d5db">Slugify has an ASCII fast path (NFKD is the identity there) and is memoised per case, as are long dates.</text>
+    <rect x="56" y="398" width="1088" height="82" rx="10" fill="#1f2937"/>
+    <text x="80" y="434" fill="#7dd3fc" font-weight="700">Templates</text>
+    <text x="80" y="464" fill="#d1d5db">Parsed once per case; rendering appends into a single output buffer instead of joining fragments.</text>
+  </g>
+</svg>
