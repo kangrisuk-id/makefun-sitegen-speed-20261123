@@ -5,14 +5,14 @@
   <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22">
     <text x="56" y="176" fill="#e2e8f0">Practice set (3 cases, 1,091 files)</text>
     <rect x="56" y="192" width="880" height="34" rx="6" fill="#475569"/>
-    <text x="952" y="217" fill="#cbd5e1">baseline 838 ms</text>
-    <rect x="56" y="234" width="315" height="34" rx="6" fill="#34d399"/>
-    <text x="387" y="259" fill="#a7f3d0">this entry 300 ms — 2.79×</text>
+    <text x="952" y="217" fill="#cbd5e1">baseline 1,286 ms</text>
+    <rect x="56" y="234" width="236" height="34" rx="6" fill="#34d399"/>
+    <text x="308" y="259" fill="#a7f3d0">this entry 345 ms — 3.72×</text>
     <text x="56" y="330" fill="#e2e8f0">Fresh generated corpus (12 cases, 5,031 files, unseen seeds)</text>
     <rect x="56" y="346" width="880" height="34" rx="6" fill="#475569"/>
-    <text x="952" y="371" fill="#cbd5e1">baseline 5,929 ms</text>
-    <rect x="56" y="388" width="257" height="34" rx="6" fill="#34d399"/>
-    <text x="329" y="413" fill="#a7f3d0">this entry 1,729 ms — 3.43×</text>
+    <text x="952" y="371" fill="#cbd5e1">baseline 5,858 ms</text>
+    <rect x="56" y="388" width="211" height="34" rx="6" fill="#34d399"/>
+    <text x="283" y="413" fill="#a7f3d0">this entry 1,402 ms — 4.18×</text>
   </g>
   <text x="56" y="478" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#64748b">Both suites must first match the reference byte for byte; a single differing byte disqualifies the speed.</text>
 </svg>
